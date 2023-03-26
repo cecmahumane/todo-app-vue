@@ -1,11 +1,11 @@
-<script setup>
+<script>
 
 
 </script>
 
 <template>
     <input type="checkbox"/>
-    
+
     <p>Todo Item</p>
 </template>
 
